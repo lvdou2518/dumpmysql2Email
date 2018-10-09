@@ -1,0 +1,2 @@
+# dumpmysql2Email
+python备份mysql数据库并发送邮件的一个例子
